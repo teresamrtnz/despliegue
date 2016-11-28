@@ -34,6 +34,8 @@ and open the template in the editor.
                 echo "<h4> visitas $visita hora $hora </h4>";
             }
         }
+        // Iniciamos la sesión o recuperamos la anterior sesión existente
+        // Comprobamos si la variable ya existe
 
 
 
