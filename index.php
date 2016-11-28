@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <!--meto comentario-->
         <form action="." method="post">
             <input type="text" name="nombre" id="">
             <input type="submit" name="Enviar" value="Enviar" id="">
