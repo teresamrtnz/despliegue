@@ -23,6 +23,7 @@ and open the template in the editor.
         session_start();
         if (isset($_POST['Enviar'])) {
             $_SESSION['num']++;
+             <!--meto comentario-->
             
             $_SESSION['visitas'][$_SESSION['num']] = mktime();
 
