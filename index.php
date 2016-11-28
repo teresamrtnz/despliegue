@@ -14,6 +14,7 @@ and open the template in the editor.
         <form action="." method="post">
             <input type="text" name="nombre" id="">
             <input type="submit" name="Enviar" value="Enviar" id="">
+            <!--meto comentario-->
         </form>
         <?php
         $a = time($h);
